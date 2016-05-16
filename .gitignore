@@ -15,9 +15,6 @@ npm-debug.log
 /coverage
 /ts
 
-ng2-charts.d.ts
-ng2-charts.js
-ng2-charts.js.map
 /demo/**/*.js
 /demo/**/*.js.map
 /demo/**/*.d.ts
