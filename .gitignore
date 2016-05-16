@@ -15,11 +15,4 @@ npm-debug.log
 /coverage
 /ts
 
-/demo/**/*.js
-/demo/**/*.js.map
-/demo/**/*.d.ts
-/components/**/*.js
-/components/**/*.js.map
-/components/**/*.d.ts
-
 /logs
